@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "com.eto.unityeditortools": "https://github.com/JanClopVandal/Unity_Tools.git",
     "com.unity.collab-proxy": "2.7.1",
     "com.unity.feature.mobile": "1.0.0",
     "com.unity.ide.rider": "3.0.31",

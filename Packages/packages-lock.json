@@ -1,5 +1,12 @@
 {
   "dependencies": {
+    "com.eto.unityeditortools": {
+      "version": "https://github.com/JanClopVandal/Unity_Tools.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "cf715a02d989ccdff4853fb0bac2bbcdb5e13dec"
+    },
     "com.unity.adaptiveperformance": {
       "version": "5.1.0",
       "depth": 1,
