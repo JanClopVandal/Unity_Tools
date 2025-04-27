@@ -1,0 +1,13 @@
+{
+    "name": "com.eto.unityeditortools",
+    "version": "1.0.0",
+    "displayName": "Unity Editor Tools",
+    "description": "A set of tools for extending the capabilities of the Unity Editor. Includes RuntimeSavedComponents, Group Objects, and more.",
+    "unity": "2021.3",
+    "author": {
+      "name": "Danil Matvienko — ETO Studio",
+      "email": "eto.digital.studio@gmail.com",
+      "url": "https://eto-digital.com/"
+    }
+  }
+  
