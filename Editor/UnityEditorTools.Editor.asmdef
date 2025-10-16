@@ -1,5 +1,0 @@
-{
-  "name": "UnityEditorTools.Editor",
-  "references": [],
-  "includePlatforms": ["Editor"]
-}
